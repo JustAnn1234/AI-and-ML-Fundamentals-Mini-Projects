@@ -9,7 +9,7 @@ Multiplication Table (Loops)
 
 Guessing Game (While Loops)
 
-Machine Learning algorithms projects like: 
+Machine Learning and model training algorithms projects like: 
 
 Logistic regression
 
