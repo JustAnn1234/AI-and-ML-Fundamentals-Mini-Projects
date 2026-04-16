@@ -1,24 +1,34 @@
-# AI/ML -Fundamentals-Mini-Projects
-This repository contains my solutions for a series of AI and ML exercises, including python projects like:  
+# 🚀 AI/ML Fundamentals & Mini-Projects
 
-Simple ATM System (Functions &amp; Logic)  
+Welcome to my repository for AI and Machine Learning fundamentals! This collection documents my journey from mastering Python basics to implementing data processing pipelines and agent-based logic.
 
-Simple Interest Calculator  
+## 📌 Project Highlights
 
-Multiplication Table (Loops)  
+### 🐍 Python Core & Logic
+* **Python Basics & Homework:** A deep dive into essential Python syntax, including functions, loops (multiplication tables, guessing games), and conditional logic (ATM system simulator).
+* **Random Agent Grid Navigation:** An exploration of algorithmic logic where an agent navigates a grid environment, focusing on pathing and state management.
 
-Guessing Game (While Loops)
+### 📊 Data Science Foundations
+* **Data Collection, Cleaning, and Processing:** A comprehensive notebook demonstrating how to handle "messy" data, manage missing values (like the median/mode fixes we worked on!), and prepare datasets for modeling.
+* **Statistics & Probability for ML:** Practical applications of statistical concepts necessary for understanding how machine learning models make decisions.
 
-Machine Learning and model training algorithms projects like: 
+### 🤖 Machine Learning Implementation
+Implementations and evaluations of various classification and regression algorithms, including:
+* Logistic Regression
+* Random Forest & Gradient Boosting
+* KNN & SVM
+* Introduction to Neural Networks
 
-Logistic regression
+## 🛠️ Tech Stack
+* **Language:** Python 3.10
+* **Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib, BeautifulSoup (Web Scraping)
+* **Environment:** Jupyter Notebooks / VS Code
 
-Random forest
+## 📈 Key Skills Demonstrated
+* **Data Preprocessing:** Handling outliers and missing data.
+* **Feature Engineering:** Converting categorical data to numerical (One-Hot Encoding/Mapping).
+* **Model Evaluation:** Analyzing performance via Accuracy Scores, Confusion Matrices, and Classification Reports.
 
-KNN
-
-SVM
-
-Gradient Boosting classifier
-
-Neural Networks
+---
+📫 **Let's Connect!**
+[www.linkedin.com/in/omosomi-hassan] 
